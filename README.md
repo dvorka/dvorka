@@ -9,7 +9,7 @@ I use my **open source projects** on a daily basis:
 * **[HSTR](https://github.com/dvorka/hstr)** (C)
     - Fastest [zsh](https://en.wikipedia.org/wiki/Z_shell) and [bash](https://www.gnu.org/software/bash/) history search for the terminal.
 * **[SlakeMoth](https://github.com/dvorka/coaching-notebook)** (Java)
-    - Auto coach I used to systematically plan, solve problems, learn from mistakes and brainstorm using SWOT, SMARTER and Eisenhower matrix combined in the wheel of life.
+    - Auto coach I used to systematically plan, solve problems, learn from mistakes and brainstorm using SWOT, SMARTER goals and Eisenhower matrix combined in the wheel of life.
 * **MyTraL** (Python)
     * My training and personal log, which I use to digitize, normalize, analyze, and predict the sports activities I have done since 1996.
 
