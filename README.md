@@ -1,6 +1,6 @@
 Hey hello, I'm **Martin Dvorak**,
 
-I do programming both for a living and for my own personal pleasure. I like all flavors of programming — I prefer strongly typed languages, however, I did my master's thesis in logic and functional languages (monadic parsers). I value **freedom**, I'm an open-source believer and the [right to fix](https://www.youtube.com/watch?v=Npd_xDuNi9k) supporter.
+I do programming both for living and for my own personal pleasure. I like all flavors of programming — I prefer strongly typed languages, however, I did my master's thesis in logic and functional languages (monadic parsers). I value **freedom**, I'm an open-source believer and the [right to fix](https://www.youtube.com/watch?v=Npd_xDuNi9k) supporter.
 
 I use my **open source projects** on a daily basis:
 
