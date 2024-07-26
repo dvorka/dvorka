@@ -1,6 +1,6 @@
 Hey hello, I'm **Martin Dvorak**,
 
-I do programming both for a living (Python/7y, Go/1y, Java/23y) and for my own personal pleasure (C++/10y, C/8y). I like all flavors of programming — I prefer strongly typed languages, however, I did my master's thesis in logic (Prolog/3y) and functional (ML/2y, Haskell/3y, Lisp/4y) languages (monadic parsers) and fell in love with them. I value **freedom**, I'm an open-source believer and the [right to fix](https://www.youtube.com/watch?v=Npd_xDuNi9k) supporter.
+I do programming both for a living (Python/7y, Go/1y, Java/23y) and for my own personal pleasure (C++/10y, C/8y). I like all flavors of programming — I prefer strongly typed languages, however, I did my master's thesis in logic (Prolog/3y) and functional (ML/2y, Haskell/3y, Lisp/4y) languages and fell in love with them. I value **freedom**, I'm an open-source believer and the [right to fix](https://www.youtube.com/watch?v=Npd_xDuNi9k) supporter.
 
 I use my **open source projects** on a daily basis:
 
