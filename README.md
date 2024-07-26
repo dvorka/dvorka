@@ -8,7 +8,7 @@ I use my **open-source projects** on a daily basis:
     - A thinking notebook to maintain what I learned and understood over the last 30 years — 16k+ notes in 800+ notebooks.
 * **[HSTR](https://github.com/dvorka/hstr)** (C)
     - Fastest [zsh](https://en.wikipedia.org/wiki/Z_shell) and [bash](https://www.gnu.org/software/bash/) history search for the terminal.
-* **[SlakeMoth](https://github.com/dvorka/coaching-notebook)** (Java)
+* **[Slake Moth](https://github.com/dvorka/coaching-notebook)** (Java)
     - Auto coach helping me to systematically plan, solve problems, learn from mistakes, and brainstorm using SWOT, SMARTER goals, and Eisenhower matrix in the wheel of life.
 * **[MyTraL](https://github.com/dvorka/my-training-log)** (Python)
     * A training and personal log, where I synchronize, aggregate, digitize, normalize, analyze, and predict the sports activities I have done since 1996 and will do today.
