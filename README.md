@@ -11,7 +11,7 @@ I use my **open-source projects** on a daily basis:
 * **[Slake Moth](https://github.com/dvorka/coaching-notebook)** (Java)
     - Auto coach helping me to systematically plan, solve problems, learn from mistakes, and brainstorm using SWOT, SMARTER goals, and Eisenhower matrix in the wheel of life.
 * **[MyTraL](https://github.com/dvorka/my-training-log)** (Python)
-    * A training and personal log, where I synchronize, aggregate, digitize, normalize, analyze, and predict the sports activities I have done since 1996 and will do today.
+    * A training and personal log, where I synchronize, aggregate, digitize, normalize, analyze, and predict the sports activities I have done and will do today.
 
 I like to read math books (I'm really bad at it) and the source code of interesting projects before going to sleep - especially [VMs](https://github.com/dvorka/logr-jvm-gc), compilers, and machine learning models.
 
