@@ -5,7 +5,7 @@ I do programming both for a living (Python/7y, Go/1y, Java/23y) and for my own p
 I use my **open-source projects** on a daily basis:
 
 * **[Mind Forger](https://github.com/dvorka/mindforger)** (C++)
-    - A thinking notebook to maintain what I learned and understood over the last 30 years — 16k+ notes in 800+ notebooks.
+    - A thinking notebook to maintain what I learned and understood over the recent years — 16k+ notes in 800+ notebooks.
 * **[HSTR](https://github.com/dvorka/hstr)** (C)
     - Fastest [zsh](https://en.wikipedia.org/wiki/Z_shell) and [bash](https://www.gnu.org/software/bash/) history search for the terminal.
 * **[Slake Moth](https://github.com/dvorka/coaching-notebook)** (Java)
