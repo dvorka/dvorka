@@ -7,7 +7,7 @@ I use my **open-source projects** on a daily basis:
 * **[Mind Forger](https://github.com/dvorka/mindforger)** (C++, Qt)
     - A thinking notebook to maintain what I learned and understood over the recent years — 16k+ notes in 800+ notebooks.
 * **[HSTR](https://github.com/dvorka/hstr)** (C, ncurses)
-    - Fastest [zsh](https://en.wikipedia.org/wiki/Z_shell) and [bash](https://www.gnu.org/software/bash/) history search for the terminal.
+    - Fast [zsh](https://en.wikipedia.org/wiki/Z_shell) and [bash](https://www.gnu.org/software/bash/) history search for the terminal.
 * **[Slake Moth](https://github.com/dvorka/coaching-notebook)** (Java, Google App Engine, GWT)
     - Auto coach helping me to systematically plan, solve problems, learn from mistakes, and brainstorm using SWOT, SMARTER goals, and Eisenhower matrix in the wheel of life.
 <!--
