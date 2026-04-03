@@ -9,7 +9,7 @@ I use my **[open-source projects](https://projects.mindforger.com/)** on a daily
 * **[HSTR](https://github.com/dvorka/hstr)** (C, ncurses)
     - Fast [zsh](https://en.wikipedia.org/wiki/Z_shell) and [bash](https://www.gnu.org/software/bash/) history search for the terminal.
 * **[H2O Sonar](https://github.com/h2oai/h2o-sonar)** (Python)
-    - A toolbox for responsible predictive and generative AI I work on at [H2O.ai](https://h2o.ai).  
+    - A toolbox for responsible predictive and generative AI that I'm building at [H2O.ai](https://h2o.ai).  
 <!--
 * **[Slake Moth](https://github.com/dvorka/coaching-notebook)** (Java, Google App Engine, GWT)
     - Auto coach helping me to systematically plan, solve problems, learn from mistakes, and brainstorm using SWOT, SMARTER goals, and Eisenhower matrix in the wheel of life.
