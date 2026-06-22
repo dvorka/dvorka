@@ -10,11 +10,11 @@ I use my **[open-source projects](https://projects.mindforger.com/)** on a daily
     - Fast [zsh](https://en.wikipedia.org/wiki/Z_shell) and [bash](https://www.gnu.org/software/bash/) history search for the terminal.
 * **[MyTraL](https://github.com/dvorka-oss/mytral)** (Python)
     * A training and personal log where I synchronize, aggregate, digitize, normalize, analyze, and predict my sports activities — from years past to today and into the future.
+* **[Slake Moth](https://github.com/dvorka/coaching-notebook)** (Java, Google App Engine, GWT)
+    - Auto coach helping me to systematically plan, solve problems, learn from mistakes, and brainstorm using SWOT, SMARTER goals, and Eisenhower matrix in the wheel of life.    
+<!--
 * **[H2O Sonar](https://github.com/h2oai/h2o-sonar)** (Python)
     - A toolbox for responsible predictive and generative AI that I made at [H2O.ai](https://h2o.ai).  
-<!--
-* **[Slake Moth](https://github.com/dvorka/coaching-notebook)** (Java, Google App Engine, GWT)
-    - Auto coach helping me to systematically plan, solve problems, learn from mistakes, and brainstorm using SWOT, SMARTER goals, and Eisenhower matrix in the wheel of life.
 -->
 
 I like to read math books (I'm really bad at it) and the source code of interesting projects before going to sleep — especially [VMs](https://github.com/dvorka/logr-jvm-gc), compilers, and machine learning models.
