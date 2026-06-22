@@ -4,11 +4,11 @@ I do programming both for a living (Python/7y, Go/1y, Java/23y) and for my own p
 
 I use my **[open-source projects](https://projects.mindforger.com/)** on a daily basis:
 
-* **[Mind Forger](https://github.com/dvorka/mindforger)** (C++, Qt)
+* **[Mind Forger](https://github.com/dvorka-oss/mindforger)** (C++, Qt)
     - A thinking notebook to maintain what I learned and understood over the recent years — 16k+ notes in 800+ notebooks.
-* **[HSTR](https://github.com/dvorka/hstr)** (C, ncurses)
+* **[HSTR](https://github.com/dvorka-oss/hstr)** (C, ncurses)
     - Fast [zsh](https://en.wikipedia.org/wiki/Z_shell) and [bash](https://www.gnu.org/software/bash/) history search for the terminal.
-* **[MyTraL](https://mytral.fitness)** (Python)
+* **[MyTraL](https://github.com/dvorka-oss/mytral)** (Python)
     * A training and personal log where I synchronize, aggregate, digitize, normalize, analyze, and predict my sports activities — from years past to today and into the future.
 * **[H2O Sonar](https://github.com/h2oai/h2o-sonar)** (Python)
     - A toolbox for responsible predictive and generative AI that I made at [H2O.ai](https://h2o.ai).  
