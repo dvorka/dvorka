@@ -8,7 +8,7 @@ I use my **[open-source projects](https://projects.mindforger.com/)** on a daily
     - A thinking notebook to maintain what I learned and understood over the recent years - 16k+ notes in 800+ notebooks.
 * **[HSTR](https://github.com/dvorka/hstr)** (C, ncurses)
     - Fast [zsh](https://en.wikipedia.org/wiki/Z_shell) and [bash](https://www.gnu.org/software/bash/) history search for the terminal.
-* **[MyTraL](https://github.com/dvorka/mytral)** (Python)
+* **[MyTraL](https://github.com/dvorka/mytral)** (Python, Flask/Tabler)
     * A personal training log where I gather, digitize, analyze, and predict my activities - 30+ years and 3GB+ of data.
 <!--
 * **[Slake Moth](https://github.com/dvorka/coaching-notebook)** (Java, Google App Engine, BigTable, GWT)
