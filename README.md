@@ -9,7 +9,7 @@ I use my **[open-source projects](https://projects.mindforger.com/)** on a daily
 * **[HSTR](https://github.com/dvorka/hstr)** (C, ncurses)
     - Fast [zsh](https://en.wikipedia.org/wiki/Z_shell) and [bash](https://www.gnu.org/software/bash/) history search for the terminal.
 * **[MyTraL](https://github.com/dvorka/mytral)** (Python)
-    * A personal training log where I aggregate, digitize, analyze, and predict my sports activities - from years past to today and into the future - 30+ years and 3GB+ of data.
+    * A personal training log where I aggregate, digitize, analyze, and predict my sports activities - 30+ years and 3GB+ of data.
 <!--
 * **[Slake Moth](https://github.com/dvorka/coaching-notebook)** (Java, Google App Engine, BigTable, GWT)
     - Auto coach which helped me to systematically plan, solve problems, learn from mistakes, and brainstorm using SWOT, SMARTER goals, and Eisenhower matrix in the wheel of life.    
